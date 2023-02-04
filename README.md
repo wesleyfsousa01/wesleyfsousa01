@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning  Java e banco de dados com SQL
+- 🌱 Eu estou estudando  Java e banco de dados com SQL
