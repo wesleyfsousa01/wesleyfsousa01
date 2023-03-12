@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 Eu estou estudando  Java e banco de dados com SQL
+- 🌱 Atualmente estou me aprofundando em desenvolvimento back end usando linguagem Java com o framework spring boot para criação de APIs
