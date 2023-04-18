@@ -18,4 +18,4 @@
  </div>
 
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyfsousa01)](https://github.com/anuraghazra/github-readme-stats&theme=radical)       
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyfsousa01&show_icons=true&theme=transparent)      
