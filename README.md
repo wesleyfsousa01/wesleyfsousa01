@@ -4,7 +4,9 @@
   
 <h2>
   Hello, Devs!!
+  <br>
 - 🔭 Sou formando em ADS, atualmente me especializando em deselvolvimento backend  com a linguagem Java.
+  <br>
 - 🌱 Atualmente estou  estudando sobre desenvolvimento de  REST APIs usando o Spring Framework  🍃
 </h2>
 
