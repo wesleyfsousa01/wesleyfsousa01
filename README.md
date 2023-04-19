@@ -3,11 +3,14 @@
 </h1>
   
 <h2>
+  <h3>
   Hello, Devs!!
-  <br>
+  </h3>
+  <p>
 - 🔭 Sou formando em ADS, atualmente me especializando em deselvolvimento backend  com a linguagem Java.
   <br>
 - 🌱 Atualmente estou  estudando sobre desenvolvimento de  REST APIs usando o Spring Framework  🍃
+</p>
 </h2>
 
 <div style="justify-content:space-between;">   
