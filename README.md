@@ -40,7 +40,7 @@ Tecnologias e Ferramentas  💻
 
 <div style="display: inline;">
       
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyfsousa01&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyfsousa01&show_icons-teste=true&theme=chartreuse-dark)
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kahcov42ppki6jsen2876ethmdyz7r7ny9v937v4&rid=giphy.gif&ct=g" width="260"/>
 </div>
 <hr>
