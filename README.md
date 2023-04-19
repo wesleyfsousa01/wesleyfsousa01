@@ -3,7 +3,18 @@
 - 🔭 Sou formando em ADS, atualmente me especializando em deselvolvimento backend  com a linguagem Java.
 - 🌱 Atualmente estou  estudando sobre desenvolvimento de  REST APIs usando o Spring Framework  🍃
 
+<div>   
+<a href="https://www.linkedin.com/in/wesley-fsa/" target="_blank">
+  <img align="center" alt="Wesley ferreira LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</a>
+<a href="#">
+  <img align="center" alt="Wesley Ferreira  Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+</div>
+
 ***
+
 ### Tecnologias e Ferramentas  💻
 
 <div style="display: block; margin-botom: 20px;">
@@ -14,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth = "40" />
-      
+  
  </div>
 
 *** 
