@@ -6,7 +6,7 @@
 ***
 ### Tecnologias e Ferramentas  💻
 
-<div style="display: block;  style="margin-botom: 20px;">
+<div style="display: block; margin-botom: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="50" height="50"/>  
@@ -17,7 +17,12 @@
       
  </div>
 
-***
+*** 
+
+<div style="display: inline;">
+      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyfsousa01&show_icons=true&theme=chartreuse-dark)
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kahcov42ppki6jsen2876ethmdyz7r7ny9v937v4&rid=giphy.gif&ct=g" width="260"/>
+</div>
 
 ![snake gif](https://github.com/wesleyfsousa01/wesleyfsousa01/blob/output/github-contribution-grid-snake.svg)
