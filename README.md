@@ -10,7 +10,7 @@
   <p>
 - 🔭 Sou formando em ADS pelo Insituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG Campus Formosa).  
   <br>
-- 🌱 Atualmente estou  estudando sobre desenvolvimento Backend com a linguagem programação Java e suas Stacks, bem como, criação REST APIs usando o Spring Framework 🍃 e integração com seu ecossistema.
+- 🌱 Atualmente estou  estudando sobre desenvolvimento Backend com a linguagem programação Java e suas Stack de tecnologias e ferramentas, bem como, criação REST APIs usando o Spring Framework 🍃 e integração com seu ecossistema.
     
 Neste repositório, você encontrará alguns dos meus projetos e exercícios que venho desenvolvendo durante meu aprendizado. Sinta-se à vontade para explorar, clonar e contribuir. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo. Vamos continuar aprendendo juntos!
 </p>
