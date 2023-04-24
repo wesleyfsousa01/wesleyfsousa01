@@ -16,10 +16,11 @@ Neste repositório, você encontrará alguns dos meus projetos e exercícios que
 </p>
 </h2>
 
-<div style="justify-content:space-between;">   
+<div style="display: inline;">   
 <a href="https://www.linkedin.com/in/wesley-fsa/" target="_blank">
   <img align="center" alt="Wesley ferreira LinkedIN"  src="https://user-images.githubusercontent.com/103182935/233090907-b5032e4c-54b8-4708-b926-dbbef6a68dbc.svg" />
 </a>
+<a href="mailto:wesleyfsouza10@gmail.com"> <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <hr>
