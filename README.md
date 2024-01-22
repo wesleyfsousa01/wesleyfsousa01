@@ -8,28 +8,42 @@
     Olá, Devs!! Bem-vindos ao meu perfil! 👋
   </h3>
   <p>
-    Sou Wesley Ferreira, um desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG Campus Formosa).
+    Sou um desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG Campus Formosa).
     <br>
-    Ao longo da minha jornada, aprimorei minhas habilidades nas seguintes áreas:
+    Ao longo da minha trajetória, adquiri experiência significativa em ambas as frentes do desenvolvimento:
   </p>
+  <h4>Back-end:</h4>
   <ul>
     <li>
-      Desenvolvimento Fullstack, utilizando tecnologias como Angular, Adonis, e Typescript.
+      Desenvolvimento robusto em Java, com enfoque especial no Spring Framework 🍃.
     </li>
     <li>
-      Criação de APIs REST seguindo o padrão MVC, garantindo uma arquitetura eficiente e organizada.
+      Criação de APIs REST, seguindo padrões arquiteturais como o MVC, para garantir eficiência e escalabilidade.
     </li>
     <li>
-      Experiência sólida em projetos tanto do lado do cliente quanto do lado do servidor.
+      Integração com bancos de dados, tanto SQL quanto NoSQL, para manipulação eficiente de dados.
+    </li>
+  </ul>
+  <h4>Conhecimentos prévios em Node.js:</h4>
+  <ul>
+    <li>
+      Experiência em desenvolvimento com Node.js e Express, criando aplicações do lado servidor.
     </li>
     <li>
-      Utilização de boas práticas de desenvolvimento para garantir a escalabilidade e manutenibilidade do código.
+      Familiaridade com o framework Adonis.js, explorando sua poderosa abordagem MVC.
+    </li>
+  </ul>
+  <h4>Front-end:</h4>
+  <ul>
+    <li>
+      Desenvolvimento de aplicações do lado cliente com Angular, aplicando princípios de componentização para criar sistemas escaláveis.
+    </li>
+    <li>
+      Habilidade em criar interfaces bonitas utilizando Bootstrap e práticas de design modernas.
     </li>
   </ul>
   <p>
-    Também possuo conhecimento prévio em Java e sua Stack de tecnologias, especialmente na criação de REST APIs usando o Spring Framework 🍃 e seu ecossistema.
-    <br>
-    Este repositório abriga alguns dos meus projetos e exercícios que desenvolvi ao longo do meu aprendizado. Fique à vontade para explorar, clonar e contribuir. Dúvidas ou sugestões? Entre em contato! Vamos continuar aprendendo juntos!
+    Este repositório abriga alguns dos meus projetos e exercícios desenvolvidos durante meu aprendizado. Fique à vontade para explorar, clonar e contribuir. Dúvidas ou sugestões? Entre em contato! Vamos continuar aprendendo juntos!
   </p>
 </div>
 
@@ -57,17 +71,5 @@ Linguagens e Ferramentas  💻
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"   width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth = "40" />
-  
- </div>
-
-<hr>
-
-<div style="display: inline;">
-      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyfsousa01&show_icons-teste=true&theme=chartreuse-dark)
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kahcov42ppki6jsen2876ethmdyz7r7ny9v937v4&rid=giphy.gif&ct=g" width="260"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth = "40" />  
 </div>
-<hr>
-
-![snake gif](https://github.com/wesleyfsousa01/wesleyfsousa01/blob/output/github-contribution-grid-snake.svg)
