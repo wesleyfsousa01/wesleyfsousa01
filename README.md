@@ -2,19 +2,36 @@
   Wesley Ferreira
 </h1>
   
-<h2>
+<div>
+  <h2>Desenvolvedor Fullstack | Estudante de Análise e Desenvolvimento de Sistemas</h2>
   <h3>
-  Hello, Devs!!
-  Welcome to my profile 👋
+    Olá, Devs!! Bem-vindos ao meu perfil! 👋
   </h3>
   <p>
-- 🔭 Sou formando em ADS pelo Insituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG Campus Formosa).  
-  <br>
-- 🌱 Atualmente estou  estudando sobre desenvolvimento Backend usando Java e sua Stack de tecnologias e ferramentas, bem como, criação REST APIs utilizando o Spring Framework 🍃 e seu ecossistema.
-    
-Neste repositório, você encontrará alguns dos meus projetos e exercícios que venho desenvolvendo durante meu aprendizado. Sinta-se à vontade para explorar, clonar e contribuir. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo. Vamos continuar aprendendo juntos!
-</p>
-</h2>
+    Sou Wesley Ferreira, um desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG Campus Formosa).
+    <br>
+    Ao longo da minha jornada, aprimorei minhas habilidades nas seguintes áreas:
+  </p>
+  <ul>
+    <li>
+      Desenvolvimento Fullstack, utilizando tecnologias como Angular, Adonis, e Typescript.
+    </li>
+    <li>
+      Criação de APIs REST seguindo o padrão MVC, garantindo uma arquitetura eficiente e organizada.
+    </li>
+    <li>
+      Experiência sólida em projetos tanto do lado do cliente quanto do lado do servidor.
+    </li>
+    <li>
+      Utilização de boas práticas de desenvolvimento para garantir a escalabilidade e manutenibilidade do código.
+    </li>
+  </ul>
+  <p>
+    Também possuo conhecimento prévio em Java e sua Stack de tecnologias, especialmente na criação de REST APIs usando o Spring Framework 🍃 e seu ecossistema.
+    <br>
+    Este repositório abriga alguns dos meus projetos e exercícios que desenvolvi ao longo do meu aprendizado. Fique à vontade para explorar, clonar e contribuir. Dúvidas ou sugestões? Entre em contato! Vamos continuar aprendendo juntos!
+  </p>
+</div>
 
 <div style="display: inline;">   
 <a href="https://www.linkedin.com/in/wesley-fsa/" target="_blank">
@@ -26,10 +43,14 @@ Neste repositório, você encontrará alguns dos meus projetos e exercícios que
 <hr>
 
 <h3>
-Tecnologias e Ferramentas  💻
+Linguagens e Ferramentas  💻
 </h3>
 
-<div style="display: block; margin-botom: 20px;">
+<div style="display: block; margin-botom:20px; margin-right:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width="45" height="45" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="45" height="45" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="50" height="50"/>  
