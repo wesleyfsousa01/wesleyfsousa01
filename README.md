@@ -1,75 +1,73 @@
-<h1>
-  Wesley Ferreira
-</h1>
-  
+<h1>Wesley Ferreira de Sousa</h1>
+
+<h3>Backend Engineer | PHP • Laravel • APIs • Microservices • Docker</h3>
+
+<p>
+Desenvolvedor backend com foco em engenharia de software e modernização de sistemas críticos de grande escala.
+<br><br>
+Atualmente atuo no desenvolvimento do ecossistema <b>ID Jovem (Presidência da República)</b>, uma plataforma que atende milhões de usuários, trabalhando na migração de sistemas legados para arquiteturas modernas, escaláveis e containerizadas.
+</p>
+
+<p>
+Tenho experiência sólida na construção de <b>APIs REST</b>, integração entre sistemas, autenticação segura (OAuth2/JWT), mensageria e boas práticas de engenharia como Clean Code, SOLID e testes automatizados.
+</p>
+
+<p>
+Busco constantemente evoluir como engenheiro, com foco em performance, manutenibilidade e impacto real no usuário.
+</p>
+
+---
+
+<h3>🚀 Stack Principal</h3>
+
+<ul>
+  <li><b>Backend:</b> PHP 8+, Laravel, Java (Spring Boot), Node.js</li>
+  <li><b>Arquitetura:</b> Clean Code, SOLID, Microsserviços, Mensageria (RabbitMQ)</li>
+  <li><b>APIs:</b> RESTful, autenticação com JWT/OAuth2, integrações</li>
+  <li><b>Bancos de dados:</b> MySQL, PostgreSQL, Redis</li>
+  <li><b>DevOps:</b> Docker, Docker Compose, CI/CD, Linux</li>
+  <li><b>Testes:</b> PHPUnit, Pest</li>
+</ul>
+
+---
+
+<h3>📌 Destaques</h3>
+
+<ul>
+  <li>Modernização de sistema legado PHP para Laravel em ambiente governamental</li>
+  <li>Desenvolvimento de APIs para integração entre sistemas críticos</li>
+  <li>Containerização completa de ambientes com Docker</li>
+  <li>Redução de tempo de onboarding técnico com padronização de ambiente</li>
+</ul>
+
+---
+
+<h3>📫 Contato</h3>
+
 <div>
-  <h2>Desenvolvedor Fullstack | Estudante de Análise e Desenvolvimento de Sistemas</h2>
-  <h3>
-    Olá, Devs!! Bem-vindos ao meu perfil! 👋
-  </h3>
-  <p>
-    Sou um desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG Campus Formosa).
-    <br>
-    Ao longo da minha trajetória, adquiri experiência significativa em ambas as frentes do desenvolvimento:
-  </p>
-  <h4>Back-end:</h4>
-  <ul>
-    <li>
-      Desenvolvimento robusto em Java, com enfoque especial no Spring Framework 🍃.
-    </li>
-    <li>
-      Criação de APIs REST, seguindo padrões arquiteturais como o MVC, para garantir eficiência e escalabilidade.
-    </li>
-    <li>
-      Integração com bancos de dados, tanto SQL quanto NoSQL, para manipulação eficiente de dados.
-    </li>
-  </ul>
-  <h4>Conhecimentos prévios em Node.js:</h4>
-  <ul>
-    <li>
-      Experiência em desenvolvimento com Node.js e Express, criando aplicações do lado servidor.
-    </li>
-    <li>
-      Familiaridade com o framework Adonis.js, explorando sua poderosa abordagem MVC.
-    </li>
-  </ul>
-  <h4>Front-end:</h4>
-  <ul>
-    <li>
-      Desenvolvimento de aplicações do lado cliente com Angular, aplicando princípios de componentização para criar sistemas escaláveis.
-    </li>
-    <li>
-      Habilidade em criar interfaces bonitas utilizando Bootstrap e práticas de design modernas.
-    </li>
-  </ul>
-  <p>
-    Este repositório abriga alguns dos meus projetos e exercícios desenvolvidos durante meu aprendizado. Fique à vontade para explorar, clonar e contribuir. Dúvidas ou sugestões? Entre em contato! Vamos continuar aprendendo juntos!
-  </p>
+  <a href="https://www.linkedin.com/in/wesley-fsa/" target="_blank">
+    LinkedIn
+  </a>
+  |
+  <a href="mailto:wesleyfsouza10@gmail.com">
+    Email
+  </a>
 </div>
 
-<div style="display: inline;">   
-<a href="https://www.linkedin.com/in/wesley-fsa/" target="_blank">
-  <img align="center" alt="Wesley ferreira LinkedIN"  src="https://user-images.githubusercontent.com/103182935/233090907-b5032e4c-54b8-4708-b926-dbbef6a68dbc.svg" />
-</a>
-<a href="mailto:wesleyfsouza10@gmail.com"> <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<hr>
+<h3>💻 Tecnologias</h3>
 
-<h3>
-Linguagens e Ferramentas  💻
-</h3>
-
-<div style="display: block; margin-botom:20px; margin-right:50px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  width="50" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width="50" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width="45" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="45" height="45" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"   width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth = "40" />  
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
